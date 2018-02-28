@@ -4,13 +4,13 @@ Statistical Analysis & Model Building to determine the important factors that af
 
 # Files:
 
-1) Airbnb_data
+ # 1) Airbnb_data
 
 This contains 2 data frames
 a) Originial Data which is messy and has to be cleaned
 b) Cleansed Data which has been cleaned and made ready for analysis
 
-2) Final_Code
+# 2) Final_Code
 
 RScript to perform:
 
@@ -21,10 +21,10 @@ d) Hypothesis Testing
 e) Model Building
 f) Data Visualization
 
-3) Final_Report
+# 3) Final_Report
 
 Report which documents the analysis has been done. The report is written keeping the audience of this presentation which in this case was technical. 
 
-4) Final_Presentation
+# 4) Final_Presentation
 
 Powerpoint presentation which highlights the steps performed right from Data Cleaning stage to finally discussing the results.
